@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45001767729",
+    "firebase_url": "https://idol-island-default-rtdb.firebaseio.com",
+    "project_id": "idol-island",
+    "storage_bucket": "idol-island.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45001767729:android:4426b386e9ea9d1b194e10",
+        "android_client_info": {
+          "package_name": "com.rrTenz.IdolIsland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45001767729-2ftofgmjg84h51lh6uj346s2167e646h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rrTenz.IdolIsland",
+            "certificate_hash": "8816235d4ab7cf02f2ffc91129476cefca919f40"
+          }
+        },
+        {
+          "client_id": "45001767729-vc8nuviuqnilc3p9tiepkcc30vnkmsj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArr9h5kMitrp3P_LXTWHTpgm95XQQQnCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45001767729-vc8nuviuqnilc3p9tiepkcc30vnkmsj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "45001767729-ao9pu41fbdm9ihvco2ja3kpju9hog1mg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rrTenz.IdolIsland"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
